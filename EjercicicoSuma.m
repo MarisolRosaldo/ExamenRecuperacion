@@ -14,4 +14,4 @@ f= (3*x)+3;
 area= area +abs(intX*f);
 endfor
 disp(['En el area= ', num2str(area), ' U.^2']);
-En el area= 76.635 U.^2
+
